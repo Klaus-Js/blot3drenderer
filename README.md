@@ -37,6 +37,8 @@ pip install trimesh
 
 ## Example
 Given a 3D model file `example.obj`, set the desired scale and focal length, and run the renderer to get the corresponding polylines for rendering.
+![{586A6F6D-C068-42F5-9DB6-4B66936478A6}](https://github.com/user-attachments/assets/4dfa59aa-0c02-4232-b27b-020d05945011)
+
 
 ## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests to improve the functionality or usability of the renderer.
